@@ -1,0 +1,137 @@
+strain	virus	date	accesion	host	country	region	db	segment	
+WMV-Fr_france_1972	WMV	1972-XX-XX	NC_006262.1	Zucchini	France	France	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/NC_006262.1
+CHI87-620_chile_1987	WMV	1987-XX-XX	EU660580.1	Zucchini	Chile	Chile	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/EU660580.1
+TURK91_turkey_1991	WMV	1991-XX-XX	EU660579.1	Zucchini	Turkey	Turkey	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/EU660579.1
+FMF00-LL1_france_2000	WMV	2000-XX-XX	EU660581.1	Zucchini	France	France	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/EU660581.1
+FMF00-LL2_france_2000	WMV	2000-XX-XX	EU660578.1	Zucchini	France	France	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/EU660578.1
+ITA00-G_italy_2000	WMV	2001-XX-XX	EU660590.1	Zucchini	Italy	Italy	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/EU660590.1 
+IR02-54_iran_2002	WMV	2002-XX-XX	EU660584.1	Zucchini	Iran	Pakistan 	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/EU660584.1
+CHI02-481_chile_2002	WMV	2002-XX-XX	EU660582.1	Zucchini	Chile	Chile	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/EU660582.1
+WMV-Pk_pakistan_2003	WMV	2003-XX-XX	AB218280.1	Melon	Pakistan 	Pakistan	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/AB218280.1
+FMF03-141_france_2003	WMV	2003-XX-XX	EU660583.1	Zucchini	France	France	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/EU660583.1
+C04-106_france_2004	WMV	2004-XX-XX	JF273469.1	Melon	France	Maillane	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF273469.1
+FBR04-37_france_2004	WMV	2004-XX-XX	EU660586.1	Zucchini	France	France	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/EU660586.1
+WMV-CHN_china_2005	WMV	2005-XX-XX	DQ399708.1	Watermelon	China	China	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/DQ399708.1
+C05-270_france_2005	WMV	2005-XX-XX	EU660585.1	Melon	France	France	genbank	genome	 https://www.ncbi.nlm.nih.gov/nuccore/EU660585.1
+C05-337_france_2005	WMV	2005-XX-XX	EU660589.1	Zucchini	France	France	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/EU660589.1
+C05-465_france_2005	WMV	2005-XX-XX	JF273460.1	Zucchini	France	Garons	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF273460.1
+C05-464_france_2005	WMV	2005-XX-XX	JF273459.1	Zucchini	France	Garons	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF273459.1
+C05-463_france_2005	WMV	2005-XX-XX	JF273458.1	Zucchini	France	Garons	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF273458.1
+C06-666_france_2006	WMV	2006-XX-XX	EU660588.1	Zucchini	France	France	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/EU660589.1
+C06-188_france_2006	WMV	2006-XX-XX	EU660587.1	Cucumber	France	France	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/EU660587.1
+C06-257_france_2006	WMV	2006-XX-XX	JF273463.1	Melon	France	Saint Chaptes	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF273463.1
+C06-526_france_2006	WMV	2006-XX-XX	JF273462.1	Melon	France	Bourdi	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF273462.1
+C07-284_france_2007	WMV	2007-XX-XX	JF273468.1	Zucchini	France	La Tour d'Aigues	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF273468.1
+C07-014_france_2007	WMV	2007-XX-XX	JF273464.1	Melon	France	Aubignan	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF273464.1
+C07-349_france_2007	WMV	2007-XX-XX	JF273461.1	Melon	France	Saint Chaptes	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF273461.1
+Watermelon_south_korea_2007	WMV	2007-XX-XX	AB369278.1	Melon	South Korea		genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/AB369278.1
+A08170_france_2008	WMV	2008-XX-XX	JF273466.1	Zucchini	France	Aubignan	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF273466.1
+A08-160_france_2008	WMV	2008-XX-XX	JF273465.1	Zucchini	France	Aubignan	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF273465.1
+C08-451_france_2008	WMV	2008-XX-XX	MN914158.1	Zucchini	France	Nice	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN914158.1
+Lecce_italy_2009	WMV	2009-XX-XX	FJ823122.1	Watermelon	Italy	Lecce	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/FJ823122.1
+Cg09-640_france_2009	WMV	2009-XX-XX	JF273467.1	Zucchini	France	Montfavet	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JF273467.1
+VE10-099_venezuela_2010	WMV	2010-XX-XX	KC292915.1	Cucumis anguria L.	Venezuela	Venezuela	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KC292915.1
+Dendrobium_usa_2010	WMV	2010-XX-XX	HQ384216.1	Dendrobium anosmum	USA	Hawaii	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/HQ384216.1
+TX113_usa_2010	WMV	2010-XX-XX	MN686524.1	Wild watermelon	USA	USA	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN686524.1
+TX29_usa_2010	WMV	2010-XX-XX	KU246036.1	Watermelon	USA	Texas	genbank	genome	 https://www.ncbi.nlm.nih.gov/nuccore/KU246036.1
+2.1Me_Mu_Mos_2011	WMV	2011-XX-XX	OM948812.1	Melon	Spain	Murcia	genbank	genome	
+WMV1_SDEFF_argentina_2012	WMV	2012-XX-XX	KP164988.1		Argentina	Argentina	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KP164988.1
+WMV-ShanXi_china_2012	WMV	2012-XX-XX	JX079685.1	Watermelon	China	China	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/JX079685.1
+BL-16_usa_2012	WMV	2012-XX-XX	MN686525.1	Watermelon	USA	USA	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN686525.1
+Yeongyang3_south_korea_2012	WMV	2012-XX-XX	KU240110.1		South Korea	Yeongyang	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240110.1
+Yeonju9_south_korea_2012	WMV	2012-XX-XX	KU240109.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240109.1
+Yeonju5_south_korea_2012	WMV	2012-XX-XX	KU240108.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240108.1
+Yeongam2-1_2_south_korea_2012	WMV	2012-XX-XX	KU240107.1	Panax ginseng C.A. Meyer	South Korea	Yeongam	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240107.1
+Sangju7-1_south_korea_2012	WMV	2012-XX-XX	KU240106.1	Panax ginseng C.A. Meyer	South Korea	Sangju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240106.1
+Sangju6_south_korea_2012	WMV	2012-XX-XX	KU240105.1	Panax ginseng C.A. Meyer	South Korea	Sangju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240105.1
+Sangju6-1_south_korea_2012	WMV	2012-XX-XX	KU240104.1	Panax ginseng C.A. Meyer	South Korea	Sangju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240104.1
+Sangju2_south_korea_2012	WMV	2012-XX-XX	KU240103.1	Panax ginseng C.A. Meyer	South Korea	Sangju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240103.1
+Pungjeonglee3_south_korea_2012	WMV	2012-XX-XX	KU240102.1	Panax ginseng C.A. Meyer	South Korea	Pungjeonglee	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240102.1
+Pungjeonglee1_south_korea_2012	WMV	2012-XX-XX	KU240101.1	Panax ginseng C.A. Meyer	South Korea	Pungjeonglee	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240101.1
+Naju3-1_2_south_korea_2012	WMV	2012-XX-XX	KU240100.1	Panax ginseng C.A. Meyer	South Korea	Naju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240100.1
+Jeongeup_3-1_south_korea_2012	WMV	2012-XX-XX	KU240099.1	Panax ginseng C.A. Meyer	South Korea	Jeongeup	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240099.1
+Jeongeup_1-1_south_korea_2012	WMV	2012-XX-XX	KU240098.1	Panax ginseng C.A. Meyer	South Korea	Jeongeup	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240098.1
+Gumi4_south_korea_2012	WMV	2012-XX-XX	KU240097.1	Panax ginseng C.A. Meyer	South Korea	Gumi	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240097.1
+Gochang2_south_korea_2012	WMV	2012-XX-XX	KU240096.1	Panax ginseng C.A. Meyer	South Korea	Gochang	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240096.1
+Gimcheon1_south_korea_2012	WMV	2012-XX-XX	KU240095.1	Panax ginseng C.A. Meyer	South Korea	Gimcheon	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240095.1
+Buan2-1_south_korea_2012	WMV	2012-XX-XX	KU240094.1	Panax ginseng C.A. Meyer	South Korea	Buan	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KU240094.1
+SangJu6-1_south_korea_2013	WMV	2013-XX-XX	KP100058.1	Panax ginseng C.A. Meyer	South Korea	South Korea	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KP100058.1
+Yeongyang8-1_south_korea_2013	WMV	2013-XX-XX	KT992093.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992093.1
+Yeongju7-5(sq)_south_korea_2013	WMV	2013-XX-XX	KT992091.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992091.1
+Yeongju7-3_south_korea_2013	WMV	2013-XX-XX	KT992090.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992090.1
+Yeongju7-2(cm)_south_korea_2013	WMV	2013-XX-XX	KT992089.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992089.1
+Yeongju7-2_south_korea_2013	WMV	2013-XX-XX	KT992088.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992088.1
+Yeongju6-1_south_korea_2013	WMV	2013-XX-XX	KT992086.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992086.1
+Yeongju2-3_south_korea_2013	WMV	2013-XX-XX	KT992085.1	Panax ginseng C.A. Meyer	South Korea	Yeonju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992085.1
+Vera_spain_2013	WMV	2013-XX-XX	MH469650.1	Panax ginseng C.A. Meyer	Spain	Valencia	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MH469650.1
+Yeongju1-2_south_korea_2013	WMV	2013-XX-XX	KT992083.1	Melon	South Korea	Yeongju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992083.1
+Yeongam2_20_south_korea_2013	WMV	2013-XX-XX	KT992081.1	Panax ginseng C.A. Meyer	South Korea	Yeongam	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992081.1
+Uiseong3-5(sq)_south_korea_2013	WMV	2013-XX-XX	KT992080.1	Panax ginseng C.A. Meyer	South Korea	Uiseong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992080.1
+Sangju3_south_korea_2013	WMV	2013-XX-XX	KT992079.1	Panax ginseng C.A. Meyer	South Korea	Sangju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992079.1
+Naju2-2_south_korea_2013	WMV	2013-XX-XX	KT992077.1	Panax ginseng C.A. Meyer	South Korea	Naju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992077.1
+Naju2-1_south_korea_2013	WMV	2013-XX-XX	KT992076.1	Panax ginseng C.A. Meyer	South Korea	Naju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992076.1
+Hongseong1_south_korea_2013	WMV	2013-XX-XX	KT992075.1	Panax ginseng C.A. Meyer	South Korea	Hongseong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992075.1
+Cheongsong5_south_korea_2013	WMV	2013-XX-XX	KT992071.1	Panax ginseng C.A. Meyer	South Korea	Cheongsong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992071.1
+Buan4-1_south_korea_2013	WMV	2013-XX-XX	KT992070.1	Panax ginseng C.A. Meyer	South Korea	Buan	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992070.1
+WMV_china_2013	WMV	2013-XX-XX	KF274031.1	Ailanthus altissima	China	China	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KF274031.1
+7.2Zu_Al_Mos_2013	WMV	2013-XX-XX	OM948828.1	Zucchini	Spain	Alicante	genbank	genome	
+1.1Me_Mu_Mos_2013	WMV	2013-XX-XX	OM948813.1	Melon	Spain	Murcia	genbank	genome	
+Yeongju9_south_korea_2014	WMV	2014-XX-XX	KT992092.1	Panax ginseng C.A. Meyer	South Korea	Yeongju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992092.1
+Yeongju7-1_south_korea_2014	WMV	2014-XX-XX	KT992087.1	Panax ginseng C.A. Meyer	South Korea	Yeongju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992087.1
+Yeongju2-1_south_korea_2014	WMV	2014-XX-XX	KT992084.1	Panax ginseng C.A. Meyer	South Korea	Yeongju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992084.1
+Yeongam4-2_south_korea_2014	WMV	2014-XX-XX	KT992082.1	Panax ginseng C.A. Meyer	South Korea	Yeongam	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992082.1
+Sangju2_south_korea_2014	WMV	2014-XX-XX	KT992078.1	Panax ginseng C.A. Meyer	South Korea	Sangju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992078.1
+Eumseong210_south_korea_2014	WMV	2014-XX-XX	KT992074.1	Panax ginseng C.A. Meyer	South Korea	Eumseong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992074.1
+Eumseong1-5_south_korea_2014	WMV	2014-XX-XX	KT992073.1	Panax ginseng C.A. Meyer	South Korea	Eumseong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992073.1
+Cungju10-1_south_korea_2014	WMV	2014-XX-XX	KT992072.1	Panax ginseng C.A. Meyer	South Korea	Cungju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992072.1
+Buan2_south_korea_2014	WMV	2014-XX-XX	KT992069.1	Panax ginseng C.A. Meyer	South Korea	Buan	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992069.1
+Bonghwa7-2_south_korea_2014	WMV	2014-XX-XX	KT992068.1	Panax ginseng C.A. Meyer	South Korea	Bonghwa	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KT992068.1
+RKG2_india_2014	WMV	2014-XX-XX	KM597071.1	Watermelon	India	India	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KM597071.1
+RKG_india_2014	WMV	2014-XX-XX	KM597070.1	Watermelon	India	India	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KM597070.1
+WMV-Pg_china_2014	WMV	2014-XX-XX	KX926428.1	Panax ginseng	China	China	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KX926428.1
+9.2Me_Mu_Mos_2014	WMV	2014-XX-XX	OM948814.1	Melon	Spain	Murcia	genbank	genome	
+Cg155055_france_2015	WMV	2015-XX-XX	MN914159.1	Zucchini	France	Montfavet	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN914159.1
+1.1Zu_Al_Mos_2015	WMV	2015-XX-XX	OM948829.1	Zucchini	Spain	Alicante	genbank	genome	
+IS-me2_south_korea_2015	WMV	2015-XX-XX	MN854647.1	Melon	South Korea	Hwaseong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854647.1
+Sa_south_korea_2016	WMV	2016-XX-XX	LC412927.1	Sicyos angulatus	South Korea	Gapyeong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/LC412927.1
+passiflora_usa_2016	WMV	2016-XX-XX	KX512320.1	Passiflora edulis	USA	USA	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KX512320.1
+hollyhock_china_2016	WMV	2016-XX-XX	MK217416.1	hollyhock	China	Shanxi	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MK217416.1
+WMV-WS_china_2016	WMV	2016-XX-XX	KX664483.1	Zucchini	China	Shanxi	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/KX664483.1
+EM16093_france_2016	WMV	2010-XX-XX	MN914160.1	Melon	France	Brignon	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN914160.1
+2.2Me_Al_Mos_2016	WMV	2016-XX-XX	OM948823.1	Melon	Spain	Alicante	genbank	genome	
+8.1Me_Mu_Mos_2016	WMV	2016-XX-XX	OM948815.1	Melon	Spain	Murcia	genbank	genome	
+1.1Zu_Mu_Yel_2016	WMV	2016-XX-XX	OM948820.1	Zucchini	Spain	Murcia	genbank	genome	
+Henan_china_2016	WMV	2016-XX-XX	OK050524.1	Cotton	China	Henan	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/OK050524.1
+NJ-me11_south_korea_2017	WMV	2017-XX-XX	MN854649.1	Melon	South Korea	Naju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854649.1 
+NJ-me10_south_korea_2017	WMV	2017-XX-XX	MN854648.1	Melon	South Korea	Naju	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854648.1
+WMV-Li_china_2017	WMV	2017-XX-XX	MG194418.1	Melon	China	Zhejiang	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MG194418.1
+HS-sq6_south_korea_2017	WMV	2017-XX-XX	MN854646.1	Pumpkin	South Korea	Hwaseong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854646.1
+HS-om3_south_korea_2017	WMV	2017-XX-XX	MN854645.1	Melon	South Korea	Hwaseong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854645.1
+HS-me4_south_korea_2017	WMV	2017-XX-XX	MN854644.1	Melon	South Korea	Hwaseong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854644.1
+CN-wm1_south_korea_2017	WMV	2017-XX-XX	MN854638.1	Watermelon	South Korea	South Korea	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854638.1
+6.1Me_Al_Mos_2017	WMV	2017-XX-XX	OM948825.1	Melon	Spain	Alicante	genbank	genome	
+8.1Me_Al_Mos_2017	WMV	2017-XX-XX	OM948824.1	Melon	Spain	Alicante	genbank	genome	
+7.2Me_Al_Mos_2018	WMV	2018-XX-XX	OM948826.1	Melon	Spain	Alicante	genbank	genome	
+64.2Me_CLM_Mos_2018	WMV	2018-XX-XX	OM948832.1	Melon	Spain	C. La-Mancha	genbank	genome	
+57.1Me_CLM_Yel_2019	WMV	2018-XX-XX	OM948833.1	Melon	Spain	C. La-Mancha	genbank	genome	
+TA-om3_south_korea_2019	WMV	2019-XX-XX	MN854651.1	Melon	South Korea	Taean	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854651.1
+TA-om2_south_korea_2019	WMV	2019-XX-XX	MN854650.1	Melon	South Korea	Taean	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854650.1 
+GC-wm2_south_korea_2019	WMV	2019-XX-XX	MN854643.1	Watermelon	South Korea	Gochang	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854643.1
+GC-wm1_south_korea_2019	WMV	2019-XX-XX	MN854642.1	Watermelon	South Korea	Gochang	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854642.1
+ES-gs2_south_korea_2019	WMV	2019-XX-XX	MN854641.1	Zucchini	South Korea	Eumseong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854641.1
+DJ-sq3_south_korea_2019	WMV	2019-XX-XX	MN854640.1	Zucchini	South Korea	Daejeon	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854640.1
+DJ-sq1_south_korea_2019	WMV	2019-XX-XX	MN854639.1	Zucchini	South Korea	Daejeon	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854639.1
+CN-sm22_south_korea_2019	WMV	2019-XX-XX	MN854637.1	Zucchini	South Korea	Changnyeong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854637.1
+CN-sm21_south_korea_2019	WMV	2019-XX-XX	MN854636.1	Zucchini	South Korea	Changnyeong	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN854636.1
+CH99/69_china_2019	WMV	2019-XX-XX	MN296125.1	Zucchini	China	Henan	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MN296125.1
+50.2Zu_Al_Yel_2019	WMV	2019-XX-XX	OM948831.1	Zucchini	Spain	Alicante	genbank	genome	
+7.1Me_Mu_Mos_2019	WMV	2019-XX-XX	OM948816.1	Melon	Spain	Murcia	genbank	genome	
+58.1Zu_Al_Yel_2019	WMV	2019-XX-XX	OM948830.1	Zucchini	Spain	Alicante	genbank	genome	
+22.1Zu_Mu_Yel_2019	WMV	2019-XX-XX	OM948822.1	Zucchini	Spain	Murcia	genbank	genome	
+4.1Zu_Mu_Mos_2019	WMV	2019-XX-XX	OM948821.1	Zucchini	Spain	Murcia	genbank	genome	
+9.1Me_Mu_Mos_2019	WMV	2019-XX-XX	OM948817.1	Melon	Spain	Murcia	genbank	genome	
+10.2Me_Al_Mos_2020	WMV	2020-XX-XX	OM948827.1	Melon	Spain	Alicante	genbank	genome	
+1.1Me_Mu_Mos_2020	WMV	2020-XX-XX	OM948819.1	Melon	Spain	Murcia	genbank	genome	
+5.1Me_Mu_Mos_2020	WMV	2020-XX-XX	OM948818.1	Melon	Spain	Murcia	genbank	genome	
+Urumqi_china_2020	WMV	2020-XX-XX	MW345911.1	Cucumis metulifer	China	Xijiang	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MW345911.1 
+Kr-1_south_korea_2020	WMV	2020-XX-XX	MW509731.1	Watermelon	South Korea	South Korea	genbank	genome	https://www.ncbi.nlm.nih.gov/nuccore/MW509731.1
